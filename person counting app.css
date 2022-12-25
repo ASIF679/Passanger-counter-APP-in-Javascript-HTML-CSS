@@ -1,0 +1,49 @@
+body{
+    background-image: url(nn.jpg);
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    margin-right: 8px;
+    margin left: 8px;
+    padding: auto;
+    
+}
+h2{
+    color: chartreuse;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    margin-right: 8px;
+    margin-left: 8px;
+    padding auto
+}
+button{
+    
+    border: none;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   color:white;
+   font-weight: bold;
+   width: 200px;
+   margin-bottom: 5px;
+   border: radius 5px;
+   font-size: 30px;
+}
+#increment-btn
+{
+    background-color:red;
+    margin-left: 550px;
+}
+#save-btn
+{
+    background-color: green;
+    margin-left: 300px;
+}
+p{
+    text-align: center;
+    font-size: 60px;
+    color: firebrick;
+}
